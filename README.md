@@ -1,3 +1,4 @@
+
 # Ai-PathFinding-Visualizer 🧠✨
 
 BFS and DFS search algorithms for pathfinding.
